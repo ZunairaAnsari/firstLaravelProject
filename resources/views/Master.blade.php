@@ -8,8 +8,7 @@
 </head>
 <body>
     @include('Header')
-    
-    <h1>This is the main page</h1>
+
     
     @yield('content')
 
